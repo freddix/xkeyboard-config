@@ -1,11 +1,11 @@
 Summary:	X Keyboard Configuration Database
 Name:		xkeyboard-config
-Version:	2.11
+Version:	2.13
 Release:	1
 License:	MIT
 Group:		X11/Development/Libraries
 Source0:	http://xorg.freedesktop.org/archive/individual/data/%{name}/%{name}-%{version}.tar.bz2
-# Source0-md5:	e3defd29cc464cc1a1dfa0eebaca53b1
+# Source0-md5:	a415775ca8ecf4dfafc9488b8cbd7114
 URL:		http://www.freedesktop.org/wiki/Software_2fXKeyboardConfig
 BuildRequires:	autoconf
 BuildRequires:	automake
